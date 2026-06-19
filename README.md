@@ -35,8 +35,8 @@ The calculator provides a clean and user-friendly interface for performing quick
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 
 
